@@ -1,0 +1,38 @@
+.tableMain {
+  display: grid;
+  grid-column: span 5;
+  grid-row: span 8;
+  justify-self: center;
+  width: 1200px;
+}
+
+.table1 td {
+  padding: 8px 5px;
+  text-align: center;
+  font-size: 15px;
+  border: 0.5px solid;
+}
+
+.table2 td {
+  padding: 8px 5px;
+  text-align: center;
+  font-size: 15px;
+  border: 0.5px solid;
+}
+
+.table3 td {
+  padding: 8px 5px;
+  text-align: center;
+  font-size: 15px;
+  border: 0.5px solid;
+}
+
+.head1 td {
+  width: 33%;
+}
+
+.head8 td {
+  font-style: italic;
+  font-size: 12px;
+  padding: 5px 5px;
+}

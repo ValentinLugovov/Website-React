@@ -1,0 +1,8 @@
+.footer {
+  background-color: rgb(39, 112, 202);
+  display: grid;
+  grid-column: span 1;
+  min-height: 60px;
+  align-items: center;
+  text-align: center;
+}

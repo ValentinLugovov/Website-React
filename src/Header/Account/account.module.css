@@ -1,0 +1,30 @@
+.menu {
+  display: grid;
+  place-items: center;
+}
+
+.list {
+  align-items: center;
+  display: flex;
+}
+
+.item {
+  margin: 0px 10px 0px 0px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  font-family: Ibarra Real Nova;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 0.86;
+  color: rgb(148, 211, 87);
+  letter-spacing: 0.5px;
+}
+
+.avatar {
+  width: 40px;
+  border-radius: 50%;
+  display: block;
+}
