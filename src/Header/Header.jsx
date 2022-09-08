@@ -2,7 +2,7 @@ import React from "react";
 import Account from "./Account/Account";
 import Buttons from "./Buttons/Buttons";
 import h from "./header.module.css";
-import logo from "./logo.png";
+import logo from "./logo.PNG";
 
 const Header = () => {
   return (
